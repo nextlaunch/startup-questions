@@ -2,20 +2,14 @@
 
 A long list of questions for startups with crowdsourced answers.
 
----
-
-### Front-end
-
----
+## Front-end
 
 ##### What framework should I use for the web app?
 
 - [Next.js](https://nextjs.org/)
 - [Vue.js](https://vuejs.org/)
 
-### Back-end
-
----
+## Back-end
 
 ##### How should I host my app?
 
@@ -25,18 +19,14 @@ A long list of questions for startups with crowdsourced answers.
 
 - [Firebase Authentication](https://firebase.google.com/docs/auth)
 
-### Marketing & Sales
-
----
+## Marketing & Sales
 
 ##### How do I make a logo?
 
 - [Looka](https://looka.partnerlinks.io/logo-maker7724)
 - [Canva](https://www.canva.com/templates/?category=tACZCvjI6mE&doctype=TAB7AVEOUWQ)
 
-### Finance
-
----
+## Finance
 
 ##### How do I find an accountant?
 
@@ -46,9 +36,7 @@ A long list of questions for startups with crowdsourced answers.
 
 ##### How can I raise capital?
 
-### Legal
-
----
+## Legal
 
 ##### How do I create an LLC?
 
