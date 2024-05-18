@@ -2,6 +2,20 @@
 
 A long list of questions for startups with crowdsourced answers.
 
+## Node / NPM
+
+##### What is npm?
+
+npm (node package manager) is the dependency/package manager you get out of the box when you install Node.js. It provides a way for developers to install packages both globally and locally.
+
+##### What is npx?
+
+Sometimes you might want to take a look at a specific package and try out some commands. But you cannot do that without installing the dependencies in your local `node_modules` folder. Since npm version 5.2.0 npx is pre-bundled with npm.
+
+npx make it easy to install and manage dependencies hosted in the npm registry. You can use npx to run any GitHub gists and repositories.
+
+[Learn more](https://www.freecodecamp.org/news/npm-vs-npx-whats-the-difference/)
+
 ## Front-end
 
 ##### What framework should I use for the web app?
